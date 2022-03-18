@@ -1,0 +1,40 @@
+{
+  "cars": [
+    {
+      "Company": "VW",
+      "Model": "polo",
+      "MFT": "2021",
+      "id": 1
+    },
+    {
+      "Company": "Ford",
+      "Model": "figo",
+      "MFT": "2021",
+      "id": 2
+    },
+    {
+      "Company": "Ford",
+      "Model": "figo",
+      "MFT": "2021",
+      "id": 3
+    },
+    {
+      "Company": "Ford",
+      "Model": "figo",
+      "MFT": "2021",
+      "id": 4
+    },
+    {
+      "Company": "Ford",
+      "Model": "figo",
+      "MFT": "2021",
+      "id": 5
+    },
+    {
+      "Company": "Ford",
+      "Model": "figo",
+      "MFT": "2021",
+      "id": 6
+    }
+  ]
+}
